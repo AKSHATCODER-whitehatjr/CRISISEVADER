@@ -1,0 +1,43 @@
+body{
+text-align: center;    
+background: rgb(0,71,255);
+background: linear-gradient(270deg, rgba(0,71,255,0.9486388305322129) 0%, rgba(1,159,238,0.9262298669467787) 35%, rgba(26,213,190,1) 100%);  
+}
+  
+#h12{
+color:rgb(125, 217, 32);
+}
+
+#p1{
+    background: rgb(0,54,255);
+    background: linear-gradient(180deg, rgba(0,54,255,1) 0%, rgba(253,187,45,1) 100%);
+border-radius: 10px;
+height: 50px;
+}
+
+#p2{
+    border-radius: 10px;
+    height: 50px;    
+    background: rgb(0,212,80);
+background: radial-gradient(circle, rgba(0,212,80,1) 10%, rgba(0,176,173,1) 32%, rgba(89,99,255,1) 96%);    
+}
+
+#p3{
+border-radius: 10px;
+height: 50px;
+background: rgb(200,116,0);
+background: linear-gradient(0deg, rgba(200,116,0,1) 0%, rgba(49,152,15,1) 100%);
+}
+
+#p4{
+    border-radius: 10px;
+    height: 50px;
+    background: rgb(43,117,149);
+    background: linear-gradient(180deg, rgba(43,117,149,1) 0%, rgba(252,187,134,1) 100%);    
+}
+
+#earth{
+    border-radius : 50px;
+height : 300px;
+width : 300px;    
+}

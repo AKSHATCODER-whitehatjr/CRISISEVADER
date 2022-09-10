@@ -1,0 +1,24 @@
+body{
+    text-align: center;  
+    background: rgb(200,116,0);
+    background: linear-gradient(0deg, rgba(200,116,0,1) 0%, rgba(49,152,15,1) 100%);
+    }
+    
+    #DD{
+        border-radius: 10px;
+        height: 50px;    
+        background: rgb(200,116,0);
+        background: linear-gradient(0deg, rgba(200,116,0,1) 0%, rgba(49,152,15,1) 100%);
+    }
+    
+    #Home{
+        border-radius: 10px;
+        height: 50px;   
+        background: rgb(200,116,0);
+background: linear-gradient(0deg, rgba(200,116,0,1) 0%, rgba(49,152,15,1) 100%);
+    }
+    #s{
+        border-radius : 30px;
+height:200px;  
+width:200px;  
+    }

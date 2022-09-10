@@ -1,0 +1,25 @@
+body{
+text-align: center;  
+background: rgb(0,212,80);
+background: radial-gradient(circle, rgba(0,212,80,1) 10%, rgba(0,176,173,1) 32%, rgba(89,99,255,1) 96%);  
+}
+
+#GG{
+    border-radius: 10px;
+    height: 50px;    
+    background: rgb(0,212,80);
+background: radial-gradient(circle, rgba(0,212,80,1) 10%, rgba(0,176,173,1) 32%, rgba(89,99,255,1) 96%);
+}
+
+#Home{
+    border-radius: 10px;
+    height: 50px;   
+    background: rgb(0,212,80);
+background: radial-gradient(circle, rgba(0,212,80,1) 10%, rgba(0,176,173,1) 32%, rgba(89,99,255,1) 96%); 
+}
+
+#u{
+    border-radius : 30px;
+height:200px;  
+width:300px;  
+}
